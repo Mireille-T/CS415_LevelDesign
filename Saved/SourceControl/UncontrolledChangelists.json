@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/UI/WBP_Health.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/UI/heart_full_256.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/Blueprints/BP_HealthPack.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/SM_Powerup_01_Shard03.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/Blueprints/AICon_Pursuer.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/Blueprints/BP_Pursuer.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/UI/WBP_Restart.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/StaticMeshes/health.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/StaticMeshes/Material.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/Material/MI_Powerup_A.uasset"
+			]
+		}
+	]
+}
