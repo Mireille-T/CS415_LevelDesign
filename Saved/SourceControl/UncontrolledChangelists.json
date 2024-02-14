@@ -16,7 +16,12 @@
 				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/UI/WBP_Restart.uasset",
 				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/StaticMeshes/health.uasset",
 				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/StaticMeshes/Material.uasset",
-				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/Material/MI_Powerup_A.uasset"
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/Material/MI_Powerup_A.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/UI/WBP_Score.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/Blueprints/BP_Collectible.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/LearningKit_Games/Assets/Props/Collectibles/Common/SM_Collectible_Common.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/Blueprints/EAIState.uasset",
+				"D:/Documents/UIUC/CS/415_GameDevelopment/LevelDesign/Content/LearningKit_Games/Maps/LevelDesign.umap"
 			]
 		}
 	]
